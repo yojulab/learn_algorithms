@@ -1,4 +1,4 @@
-### pre langague study for python ([Baekjoon Online Judge](https://www.acmicpc.net/))
+### pre langague study for python ([Baekjoon Online Judge](https://www.acmicpc.net/){target="_blank"})
 * python
  * input()
  * print()
