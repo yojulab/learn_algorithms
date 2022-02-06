@@ -1,3 +1,4 @@
+### basic math : <a href='https://youtube.com/playlist?list=PLswnFe0nC35dkG7UWlCYDYES8HKoJjTC4' target='_blank'>[새교육과정 고2과정] 수학1 (기본정석)-완강</a>
 ### pre langague study for python
 * python
  * input()
