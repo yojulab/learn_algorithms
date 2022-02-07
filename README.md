@@ -21,5 +21,6 @@
   * [선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc) : O(N * N) - <a href="" target="_blank">백준 연습</a>
   * [버블 정렬(Bubble Sort)](https://youtu.be/EZN0Irp2aPs) : O(N * N) - <a href="" target="_blank">백준 연습</a>
   * [삽입 정렬(Insertion Sort)](https://youtu.be/16I9Z7bS1iM) : O(N * N) - <a href="" target="_blank">백준 연습</a> : 데이터가 거의 정렬되어 있다면 단연 우수.
+  * [퀵 정렬(Quick Sort)](https://youtu.be/O-O-90zX-U4) : O(N * log N) - <a href="" target="_blank">백준 연습</a> : 분할 정렬
 * 탐색 
   * ? : ex) 'd' in 'good'
