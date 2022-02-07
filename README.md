@@ -1,6 +1,8 @@
 ### basic math 
 * <a href='https://youtube.com/playlist?list=PLswnFe0nC35dkG7UWlCYDYES8HKoJjTC4' target='_blank'>[새교육과정 고2과정] 수학1 (기본정석)-완강</a>
  * 각종 함수, 방정식, 부등식 (지수, 로그, 삼각 등) 
+* 선형대수
+ * 선형세계 : 뭐든 직선, 덧셈과 정수배 
 ### pre langague study for python
 * python
  * input()
