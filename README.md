@@ -16,7 +16,7 @@
  * and, or, not
  * map()
  * str.format() : {:>8}
- * 
+ * zip()
 #### exec refer : <a href="https://www.acmicpc.net/" target="_blank">Baekjoon Online Judge</a>
 #### main refer : <a href="https://youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n" target="_blank">이산수학 강좌 (Discrete Mathematics Tutorial For Beginners)</a>
 #### main refer : <a href="https://youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz" target="_blank">실전 알고리즘 강좌 (Algorithm Programming Tutorial)</a>
