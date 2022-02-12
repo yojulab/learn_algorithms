@@ -3,6 +3,9 @@
   * 각종 함수, 방정식, 부등식 (지수, 로그, 삼각 등) 
 * 선형대수
   * 선형세계 : 뭐든 직선, 덧셈과 정수배 
+* <a href='https://youtube.com/playlist?list=PLswnFe0nC35dkG7UWlCYDYES8HKoJjTC4' target='_blank'>수열</a>
+ * 
+
 ### pre langague study for python
 * python
  * input()
