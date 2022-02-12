@@ -9,7 +9,7 @@
  * print()
  * str.split()
  * int(), float(), str()
- * list, dict type
+ * list(), dict(), set()
  * range(), enumerate()
  * type()
  * if, while, for
