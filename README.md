@@ -26,5 +26,6 @@
   * [삽입 정렬(Insertion Sort)](https://youtu.be/16I9Z7bS1iM) : O(N * N) - <a href="" target="_blank">백준 연습</a> : 데이터가 거의 정렬되어 있다면 단연 우수.
   * [퀵 정렬(Quick Sort)](https://youtu.be/O-O-90zX-U4) : O(N * log N) - <a href="" target="_blank">백준 연습</a> : 분할 정렬 - [refer](https://youtu.be/V_RcpaHcULM)
   * [병합 정렬(Merge Sort)](https://youtu.be/ctkuGoJPmAE) : O(N * log N) - <a href="" target="_blank">백준 연습</a> : 분할 정렬 - [refer]()
+  * [힙 정렬(Heap Sort)](https://youtu.be/iyl9bfp_8ag) : O(N * log N) - <a href="" target="_blank">백준 연습</a> : 완전이진트리 - [refer]()
 * 탐색 
   * ? : ex) 'd' in 'good'
