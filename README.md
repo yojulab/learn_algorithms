@@ -31,5 +31,8 @@
   * [병합 정렬(Merge Sort)](https://youtu.be/ctkuGoJPmAE) : O(N * log N) - <a href="" target="_blank">백준 연습</a> : 분할 정렬 - [refer]()
   * [힙 정렬(Heap Sort)](https://youtu.be/iyl9bfp_8ag) : O(N * log N) - <a href="" target="_blank">백준 연습</a> : 완전이진트리 사용 - [refer]()
   * [계수 정렬(Counting Sort)](https://youtu.be/n4kbFRn2z9M) : O(N) - <a href="" target="_blank">백준 연습</a> : 단, 중복 데이터 처리시 유리  - [refer]()
+* 자료 구조
+  * [스택(Stack)](https://youtu.be/WB_BoAgWLNU) : - <a href="" target="_blank">백준 연습</a> : - [refer]()
+  * [큐(Queue)](https://youtu.be/yAiZ1AVU8Aw) : - <a href="" target="_blank">백준 연습</a> : - [refer]()
 * 탐색 
   * ? : ex) 'd' in 'good'
