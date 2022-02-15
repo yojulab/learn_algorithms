@@ -35,4 +35,5 @@
   * [스택(Stack)](https://youtu.be/WB_BoAgWLNU) : - <a href="" target="_blank">백준 연습</a> : - [refer]()
   * [큐(Queue)](https://youtu.be/yAiZ1AVU8Aw) : - <a href="" target="_blank">백준 연습</a> : - [refer]()
 * 탐색 
+  * [너비 우선 탐색(Breath First Search)](https://youtu.be/yAiZ1AVU8Aw) : - <a href="" target="_blank">백준 연습</a> : - [refer]()
   * ? : ex) 'd' in 'good'
