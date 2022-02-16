@@ -6,20 +6,6 @@
 * <a href='https://youtube.com/playlist?list=PLswnFe0nC35dkG7UWlCYDYES8HKoJjTC4' target='_blank'>수열</a>
  * 
 
-### pre langague study for python
-* python
- * input()
- * print()
- * str.split()
- * int(), float(), str()
- * list(), dict(), set()
- * range(), enumerate()
- * type()
- * if, while, for
- * and, or, not
- * map()
- * str.format() : {:>8}
- * zip()
 #### exec refer : <a href="https://www.acmicpc.net/" target="_blank">Baekjoon Online Judge</a>
 #### main refer : <a href="https://youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n" target="_blank">이산수학 강좌 (Discrete Mathematics Tutorial For Beginners)</a>
 #### main refer : <a href="https://youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz" target="_blank">실전 알고리즘 강좌 (Algorithm Programming Tutorial)</a>
