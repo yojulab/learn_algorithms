@@ -17,3 +17,4 @@
   * [깊이 우선 탐색(Depth First Search)](https://youtu.be/l0Rsu7dziws) : 여분 스택 사용 - <a href="" target="_blank">백준 연습</a> : - [refer]()
 * 그래프
   * [합집합 찾기(Union-Find)](https://youtu.be/AMByrd53PHM) :  - <a href="" target="_blank">백준 연습</a> : - [refer]()
+  * [크루스칼 알고리즘(Kruskal Algorithm)](https://youtu.be/LQ3JHknGy8c) :  - <a href="" target="_blank">백준 연습</a> : - [refer]()
