@@ -1,5 +1,16 @@
-* 수학
-  * [손익분기점 찾기]() : <a href="" target="_blank">coding test</a> [analysis](./analysis/baekjoon_1712_analysis.txt) [flat code](./python/baekjoon_1712_flat.py)
+### basic math 
+* <a href='https://youtube.com/playlist?list=PLswnFe0nC35dkG7UWlCYDYES8HKoJjTC4' target='_blank'>[새교육과정 고2과정] 수학1 (기본정석)-완강</a>
+  * 각종 함수, 방정식, 부등식 (지수, 로그, 삼각 등) 
+* 선형대수
+  * 선형세계 : 뭐든 직선, 덧셈과 정수배 
+* <a href='https://youtube.com/playlist?list=PLswnFe0nC35dkG7UWlCYDYES8HKoJjTC4' target='_blank'>수열</a>
+ * 
+
+#### exec refer : <a href="https://www.acmicpc.net/" target="_blank">Baekjoon Online Judge</a>
+#### main refer : <a href="https://youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n" target="_blank">이산수학 강좌 (Discrete Mathematics Tutorial For Beginners)</a>
+#### main refer : <a href="https://youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz" target="_blank">실전 알고리즘 강좌 (Algorithm Programming Tutorial)</a>
+
+? 어느 곳에 속하나 ?  * ? : ex) 'd' in 'good'
 
 * 자료 구조
   * [스택(Stack)](https://youtu.be/WB_BoAgWLNU) : - <a href="" target="_blank">백준 연습</a> : - [refer]()
