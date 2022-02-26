@@ -12,6 +12,12 @@
 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
 |변경 블랙잭|[link](./analysis/baekjoon_2798_analysis.txt)|[py](./python/baekjoon_2798_flat.py)|-|-|-|[백준 2798](https://www.acmicpc.net/problem/2798)|-|
+#### 정렬
+| 분류 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
+| :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
+|삽입정렬||||-|-|-|[백준 2750](https://www.acmicpc.net/problem/2750)|-|
+|선택정렬|수 정렬하기|[link](./analysis/baekjoon_2750_analysis.txt)|[py](./python/baekjoon_2750_flat.py)|-|-|-|[백준 2750](https://www.acmicpc.net/problem/2750)|-|
+
 #### 다이나믹 프로그래밍
 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
