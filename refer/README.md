@@ -1,3 +1,8 @@
+#### 사용법 
+해보기 : other - 다른 방식 풀이
+#### 사이트 이용 문제 해결  
+시간초과 : 입력 시 - sys.stdin.readline() 사용
+
 ### basic math 
 * <a href='https://youtube.com/playlist?list=PLswnFe0nC35dkG7UWlCYDYES8HKoJjTC4' target='_blank'>[새교육과정 고2과정] 수학1 (기본정석)-완강</a>
   * 각종 함수, 방정식, 부등식 (지수, 로그, 삼각 등) 
