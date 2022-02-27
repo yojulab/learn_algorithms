@@ -2,6 +2,8 @@
 코딩테스트 문제를 풀며 알고리즘  
 #### 사용법 
 해보기 : other - 다른 방식 풀이
+#### 사이트 이용 문제 해결  
+시간초과 : 입력 시 - sys.stdin.readline() 사용
 #### 수학
 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
@@ -18,6 +20,7 @@
 |삽입정렬||||-|-|-|[백준 2750](https://www.acmicpc.net/problem/2750)|-|
 |선택정렬|수 정렬하기|[link](./analysis/baekjoon_2750_analysis.txt)|[py](./python/baekjoon_2750_flat.py)|-|-|-|[백준 2750](https://www.acmicpc.net/problem/2750)|-|
 |위상정렬||||-|-|-||[-](https://youtu.be/qzfeVeajuyc)|
+|병합정렬||||[py](./python/baekjoon_2751_function.py)|-|-|[백준 2751](https://www.acmicpc.net/problem/2751)|[link](https://eunhee-programming.tistory.com/105)|
 
 #### 다이나믹 프로그래밍
 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
