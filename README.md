@@ -11,6 +11,7 @@
 |선택정렬|수 정렬하기|[link](./analysis/baekjoon_2750_analysis.txt)|[py](./python/baekjoon_2750_flat.py)|-|-|-|[백준 2750](https://www.acmicpc.net/problem/2750)|-|
 |병합정렬|수 정렬하기|||[py](./python/baekjoon_2751_function.py)|-|-|[백준 2751](https://www.acmicpc.net/problem/2751)|[link](https://eunhee-programming.tistory.com/105)|
 |?|중복 수 정렬하기|-|[py](./python/baekjoon_10989_flat.py)|-|-|-|[백준 10989](https://www.acmicpc.net/problem/10989)|| 
+|위상정렬|임계경로|||-|-|-|[백준 10989](https://www.acmicpc.net/problem/1948)|[youtube](https://youtu.be/WR5U_oWwf54)|
 |위상정렬||||-|-|-||[-](https://youtu.be/qzfeVeajuyc)|
 |타잔SCC정렬||||-|-|-||[-](https://youtu.be/H_Cg3-rv7RU)||
 |통계|통계 수치 구하기|[link](./analysis/baekjoon_2108_analysis.txt)||-|-|-|[백준 2108](https://www.acmicpc.net/problem/2108)|[link](https://velog.io/@jaenny/%EB%B0%B1%EC%A4%80-2108-%ED%86%B5%EA%B3%84%ED%95%99-Python%ED%8C%8C%EC%9D%B4%EC%8D%AC)| 

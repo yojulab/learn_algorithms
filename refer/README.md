@@ -9,7 +9,7 @@
 * 선형대수
   * 선형세계 : 뭐든 직선, 덧셈과 정수배 
 * <a href='https://youtube.com/playlist?list=PLswnFe0nC35dkG7UWlCYDYES8HKoJjTC4' target='_blank'>수열</a>
- * 
+ * [수열의 귀납적 정의 - 점화식](https://youtu.be/dIDYrdOw6Mw)
 
 #### exec refer : <a href="https://www.acmicpc.net/" target="_blank">Baekjoon Online Judge</a>
 #### main refer : <a href="https://youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n" target="_blank">이산수학 강좌 (Discrete Mathematics Tutorial For Beginners)</a>
