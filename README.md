@@ -10,6 +10,7 @@
 |수학|에라토스테네스의 체||[py](https://www.acmicpc.net/source/39961586)|-|-|-|[백준 11653](https://www.acmicpc.net/problem/11653)|[link](https://youtu.be/5ypkoEgFdH8)|
 |이진트리|6÷2(1+2)?중위표기법|||-|-|-||[link](https://youtu.be/3doWeqpD5gk)|
 |완전탐색|변경 블랙잭|[link](./analysis/baekjoon_2798_analysis.txt)|[py](./python/baekjoon_2798_flat.py)|-|-|-|[백준 2798](https://www.acmicpc.net/problem/2798)|-|
+|DFS|백트래킹|-|-|[py](./python/baekjoon_15649_function.py)|-|-|[백준 15649](https://www.acmicpc.net/problem/15649)|[link](https://velog.io/@yusuk6185/%EB%B0%B1%EC%A4%80-15649-N%EA%B3%BC-M-1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-with-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)| 
 |선택정렬|수 정렬하기|[link](./analysis/baekjoon_2750_analysis.txt)|[py](./python/baekjoon_2750_flat.py)|-|-|-|[백준 2750](https://www.acmicpc.net/problem/2750)|-|
 |병합정렬|수 정렬하기|||[py](./python/baekjoon_2751_function.py)|-|-|[백준 2751](https://www.acmicpc.net/problem/2751)|[link](https://eunhee-programming.tistory.com/105)|
 |?|중복 수 정렬하기|-|[py](./python/baekjoon_10989_flat.py)|-|-|-|[백준 10989](https://www.acmicpc.net/problem/10989)|| 
