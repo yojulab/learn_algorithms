@@ -18,5 +18,7 @@
 |위상정렬||||-|-|-||[-](https://youtu.be/qzfeVeajuyc)|
 |타잔SCC정렬||||-|-|-||[-](https://youtu.be/H_Cg3-rv7RU)||
 |통계|통계 수치 구하기|[link](./analysis/baekjoon_2108_analysis.txt)||-|-|-|[백준 2108](https://www.acmicpc.net/problem/2108)|[link](https://velog.io/@jaenny/%EB%B0%B1%EC%A4%80-2108-%ED%86%B5%EA%B3%84%ED%95%99-Python%ED%8C%8C%EC%9D%B4%EC%8D%AC)| 
-|다이나믹 프로그래밍|-|-|-|-|-|-|[백준 11726](https://www.acmicpc.net/problem/11726)|| 
+|다이나믹 프로그래밍|피보나치 함수|[py](https://www.acmicpc.net/source/40047040)|-|-|-|-|[백준 1003](https://www.acmicpc.net/problem/1003)|[link](https://myjamong.tistory.com/303?category=898047)| 
+|다이나믹 프로그래밍|2×n 타일링|-|-|-|-|-|[백준 11726](https://www.acmicpc.net/problem/11726)|[link](https://wook-2124.tistory.com/455)| 
+|그리디|잔돈 주기|-|[py](./python/baekjoon_11047_flat.py)|-|-|-|[백준 11047](https://www.acmicpc.net/problem/11047)|[link](https://puleugo.tistory.com/20)| 
 
