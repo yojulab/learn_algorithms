@@ -21,4 +21,5 @@
 |다이나믹 프로그래밍|피보나치 함수|[py](https://www.acmicpc.net/source/40047040)|-|-|-|-|[백준 1003](https://www.acmicpc.net/problem/1003)|[link](https://myjamong.tistory.com/303?category=898047)| 
 |다이나믹 프로그래밍|2×n 타일링|-|-|-|-|-|[백준 11726](https://www.acmicpc.net/problem/11726)|[link](https://wook-2124.tistory.com/455)| 
 |그리디|잔돈 주기|-|[py](./python/baekjoon_11047_flat.py)|-|-|-|[백준 11047](https://www.acmicpc.net/problem/11047)|[link](https://puleugo.tistory.com/20)| 
+|정수론 및 조합론|배수와 약수|-|-|-|-|-|[백준 5086](https://www.acmicpc.net/problem/5086)|| 
 
