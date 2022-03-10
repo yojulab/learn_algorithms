@@ -22,4 +22,4 @@
 |다이나믹 프로그래밍|2×n 타일링|-|-|-|-|-|[백준 11726](https://www.acmicpc.net/problem/11726)|[link](https://wook-2124.tistory.com/455)| 
 |그리디|잔돈 주기|-|[py](./python/baekjoon_11047_flat.py)|-|-|-|[백준 11047](https://www.acmicpc.net/problem/11047)|[link](https://puleugo.tistory.com/20)| 
 |정수론 및 조합론|배수와 약수|-|-|-|-|-|[백준 5086](https://www.acmicpc.net/problem/5086)|| 
-
+|스택|스택|-|-|-|-|-|[백준 10828](https://www.acmicpc.net/problem/10828)|| 
