@@ -23,3 +23,4 @@
 |그리디|잔돈 주기|-|[py](./python/baekjoon_11047_flat.py)|-|-|-|[백준 11047](https://www.acmicpc.net/problem/11047)|[link](https://puleugo.tistory.com/20)| 
 |정수론 및 조합론|배수와 약수|-|-|-|-|-|[백준 5086](https://www.acmicpc.net/problem/5086)|| 
 |스택|스택|-|-|-|-|-|[백준 10828](https://www.acmicpc.net/problem/10828)|| 
+|큐|큐2|[deque](https://docs.python.org/3/library/collections.html#collections.deque)|-|-|-|-|[백준 18258](https://www.acmicpc.net/problem/18258)|| 
