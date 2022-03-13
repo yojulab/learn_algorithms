@@ -25,3 +25,4 @@
 |스택|스택|-|-|-|-|-|[백준 10828](https://www.acmicpc.net/problem/10828)|| 
 |큐|큐2|[deque](https://docs.python.org/3/library/collections.html#collections.deque)|-|-|-|-|[백준 18258](https://www.acmicpc.net/problem/18258)|| 
 |분할 정복|색종이 만들기|-|-|-|-|-|[백준 2630](https://www.acmicpc.net/problem/2630)|| 
+|이분 탐색|수 찾기|-|-|-|-|-|[백준 1920](https://www.acmicpc.net/problem/1920)|| 
