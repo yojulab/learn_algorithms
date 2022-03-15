@@ -26,3 +26,6 @@
 |큐|큐2|[deque](https://docs.python.org/3/library/collections.html#collections.deque)|-|-|-|-|[백준 18258](https://www.acmicpc.net/problem/18258)|| 
 |분할 정복|색종이 만들기|-|-|-|-|-|[백준 2630](https://www.acmicpc.net/problem/2630)|| 
 |이분 탐색|수 찾기|-|-|-|-|-|[백준 1920](https://www.acmicpc.net/problem/1920)|| 
+|우선순위 큐|최대 힙|-|-|-|-|-|[백준 11279](https://www.acmicpc.net/problem/11279)||
+|동적 계획법|파일 합치기|-|-|-|-|-|[백준 11066](https://www.acmicpc.net/problem/11066)|[link](https://my-coding-notes.tistory.com/130)|
+ 
