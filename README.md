@@ -50,5 +50,6 @@
 |우선순위 큐|최대 힙|-|-|-|-|-|[백준 11279](https://www.acmicpc.net/problem/11279)||
 |동적 계획법|파일 합치기|pypy|-|-|-|-|[백준 11066](https://www.acmicpc.net/problem/11066)|[link](https://suri78.tistory.com/15)|
 |DFS와 BFS|DFS와 BFS||-|-|-|-|[백준 1260](https://www.acmicpc.net/problem/1260)|[link](https://velog.io/@hamfan524/%EB%B0%B1%EC%A4%80-1260%EB%B2%88-Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC)|
+|최단 경로|최단 경로|다익스트라|-|-|-|-|[백준 1753](https://www.acmicpc.net/problem/1753)|[link](https://my-coding-notes.tistory.com/200)|
 </details>
  
