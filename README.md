@@ -1,5 +1,5 @@
 ### 찐 사수와 같이 하는 알고리즘([사용법](./refer/README.md))
-코딩테스트 문제를 풀며 알고리즘  
+코딩테스트 문제를 풀며 알고리즘  [refer link](https://youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
 + 풀기 팁
     + 보통 깊이 우선 탐색 : 함수안에서 주로 재귀
     + 넓이 우선 탐색 : 큐나 데크에 저장 후 반복해 찾음.
