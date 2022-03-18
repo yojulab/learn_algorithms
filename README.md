@@ -59,6 +59,6 @@
 <summary>begginer</summary>
 
 | 분류 | 제목 | 설명 | 시간복잡도 | 기본의미 | 일반 | function | 연관 |
-| :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
-|정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|작은 것부터 앞으로 보냄|$$O(N^2)$$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|-|-||| 
+| :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |
+|정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|작은 것부터 앞으로 보냄|$$O(N^2)$$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|-|-|| 
 </details>
