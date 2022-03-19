@@ -53,6 +53,7 @@
 |DFS와 BFS|DFS와 BFS||-|-|-|-|[백준 1260](https://www.acmicpc.net/problem/1260)|[link](https://velog.io/@hamfan524/%EB%B0%B1%EC%A4%80-1260%EB%B2%88-Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC)|
 |최단 경로|최단 경로|다익스트라|-|-|-|-|[백준 1753](https://www.acmicpc.net/problem/1753)|[link](https://my-coding-notes.tistory.com/200)|
 |투포인트|두 수의 합||-|-|-|-|[백준 3273](https://www.acmicpc.net/problem/3273)||
+|최단거리 역추적|1로 만들기 2||-|-|-|-|[백준 12852](https://www.acmicpc.net/problem/12852)|[link](https://claude-u.tistory.com/349)|
 </details>
  
 <details open>
@@ -60,5 +61,5 @@
 
 | 분류 | 제목 | 설명 | 시간복잡도 | 기본의미 | 일반 | function | 연관 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-|정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|작은 것부터 앞으로 보냄|$$O(N^2)$$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|-|-|| 
+|정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|작은 것부터 앞으로 보냄|$O(N^2)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|-|-|| 
 </details>
