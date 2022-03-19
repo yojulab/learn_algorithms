@@ -61,5 +61,6 @@
 
 | 분류 | 제목 | 설명 | 시간복잡도 | 기본의미 | 일반 | function | 연관 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-|정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|작은 것부터 앞으로 보냄|$O(N^2)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|-|-|| 
+|정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|기준 값과 반복 비교해 앞으로 보냄|$O(N^2)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|-|-|| 
+|정렬|[버블 정렬(Bubble Sort)](https://youtu.be/EZN0Irp2aPs)|옆 값과 비교해 앞으로 보냄 반복|$O(N^2)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=2018194806)|-|-|| 
 </details>
