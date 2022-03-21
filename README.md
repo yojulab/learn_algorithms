@@ -66,4 +66,5 @@
 |정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|기준 값과 반복 비교해 앞으로 보냄|$O(N^2)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|-|-|| 
 |정렬|[버블 정렬(Bubble Sort)](https://youtu.be/EZN0Irp2aPs)|옆 값과 비교해 앞으로 보냄 반복|$O(N^2)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=2018194806)|-|-|| 
 |정렬|삽입 정렬(Insertion Sort)|비교 대상 값들 사이에 크기로 위치|$O(N^2)$||-|-|| 
+|정렬|[퀵 정렬(Quick Sort)](https://youtu.be/7BDzle2n47c)|정한 값 기준 분할해 작은/큰 값으로 위치 반복|$O(N^2)$~$O(N*log_2N)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=730421551)|-|-|| 
 </details>
