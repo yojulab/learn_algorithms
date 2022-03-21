@@ -55,6 +55,7 @@
 |투포인트|두 수의 합||-|-|-|-|[백준 3273](https://www.acmicpc.net/problem/3273)||
 |최단거리 역추적|1로 만들기 2||-|-|-|-|[백준 12852](https://www.acmicpc.net/problem/12852)|[link](https://claude-u.tistory.com/349)|
 |트리|트리의 부모 찾기||-|-|-|-|[백준 11725](https://www.acmicpc.net/problem/11725)|[link](https://yanoo.tistory.com/52)|
+|유니온 파인드|집합의 표현||-|-|-|-|[백준 1717](https://www.acmicpc.net/problem/1717)||
 </details>
  
 <details open>
