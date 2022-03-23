@@ -1,5 +1,7 @@
 ### 찐 사수와 같이 하는 알고리즘([사용법](./refer/README.md))
 코딩테스트 문제를 풀며 알고리즘  [refer link](https://youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
+[빅오(Big-O)표기법 완전정복](https://youtu.be/6Iq5iMCVsXA)
+
 + 풀기 팁
     + 보통 깊이 우선 탐색 : 함수안에서 주로 재귀
     + 넓이 우선 탐색 : 큐나 데크에 저장 후 반복해 찾음.
@@ -66,8 +68,9 @@
 
 | 분류 | 제목 | 설명 | 시간복잡도 | 기본의미 | 일반 | function | 연관 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-|정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|기준 값과 반복 비교해 앞으로 보냄|$O(N^2)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|-|-|| 
-|정렬|[버블 정렬(Bubble Sort)](https://youtu.be/EZN0Irp2aPs)|옆 값과 비교해 앞으로 보냄 반복|$O(N^2)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=2018194806)|-|-|| 
-|정렬|삽입 정렬(Insertion Sort)|비교 대상 값들 사이에 크기로 위치|$O(N^2)$||-|-|| 
-|정렬|[퀵 정렬(Quick Sort)](https://youtu.be/7BDzle2n47c)|정한 값 기준 분할해 작은/큰 값으로 위치 반복|$O(N^2)$~$O(N*log_2N)$|[link](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=730421551)|-|-|| 
+|정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|기준 값과 반복 비교해 앞으로 보냄|$O(N^2)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|[yet](https://www.acmicpc.net/problem/2750)|-|[link](https://youtu.be/V_RcpaHcULM)| 
+|정렬|[버블 정렬(Bubble Sort)](https://youtu.be/EZN0Irp2aPs)|옆 값과 비교해 앞으로 보냄 반복|$O(N^2)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=2018194806)|[yet](https://www.acmicpc.net/problem/2752)|-|[link](https://youtu.be/V_RcpaHcULM)| 
+|정렬|삽입 정렬(Insertion Sort)|비교 대상 값들 사이에 크기로 위치|$O(N^2)$||-|-|[link](https://youtu.be/16I9Z7bS1iM)| 
+|정렬|[퀵 정렬(Quick Sort)](https://youtu.be/7BDzle2n47c)|정한 값 기준 분할해 작은/큰 값으로 위치 반복|$O(N^2)$~$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=730421551)|?|-|[link](https://youtu.be/V_RcpaHcULM)| 
+|정렬|병합정렬(Merge Sort)|두 단위로 쪼개어 비교 후 반복 비교해 붙임|$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=1410825905)|-|-|| 
 </details>
