@@ -60,6 +60,7 @@
 |유니온 파인드|집합의 표현||-|-|-|-|[백준 1717](https://www.acmicpc.net/problem/1717)||
 |최소 신장 트리|상근이의 여행||-|-|-|-|[백준 9372](https://www.acmicpc.net/problem/9372)||
 |트리에서의 동적 계획법|트리와 쿼리||-|-|-|-|[백준 15681](https://www.acmicpc.net/problem/15681)||
+|기하|다각형의 면적|그린정리|-|-|-|-|[백준 2166](https://www.acmicpc.net/problem/2166)||
 
 </details>
  
