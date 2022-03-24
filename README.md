@@ -74,4 +74,6 @@
 |정렬|삽입 정렬(Insertion Sort)|비교 대상 값들 사이에 크기로 위치|$O(N^2)$||-|-|[link](https://youtu.be/16I9Z7bS1iM)| 
 |정렬|[퀵 정렬(Quick Sort)](https://youtu.be/7BDzle2n47c)|정한 값 기준 분할해 작은/큰 값으로 위치 반복|$O(N^2)$~$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=730421551)|?|-|[link](https://youtu.be/V_RcpaHcULM)| 
 |정렬|병합정렬(Merge Sort)|두 단위로 쪼개어 비교 후 반복 비교해 붙임|$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=1410825905)|-|-|| 
+|정렬|힙정렬(Binary Heaps)|완전이진트리 기반 구조|$O(N)$~$O(log_2N)$|[diagrams](https://app.diagrams.net/#G16oevZ5ILcp0nb1a_AIiogbryfRILW0q_)|-|-|[link](https://youtu.be/jfwjyJvbbBI)|  
+
 </details>
