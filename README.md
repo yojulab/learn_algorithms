@@ -61,19 +61,30 @@
 |최소 신장 트리|상근이의 여행||-|-|-|-|[백준 9372](https://www.acmicpc.net/problem/9372)||
 |트리에서의 동적 계획법|트리와 쿼리||-|-|-|-|[백준 15681](https://www.acmicpc.net/problem/15681)||
 |기하|다각형의 면적|그린정리|-|-|-|-|[백준 2166](https://www.acmicpc.net/problem/2166)||
+|동적 계획법 3|집합||-|-|-|-|[백준 11723](https://www.acmicpc.net/problem/11723)||
+
+</details>
+
+<details open>
+<summary>begginer</summary>
+| 분류 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
+| :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
+|해시|완주하지 못한 선수|-|-|-|-|-|[프로그래머스 42576](https://programmers.co.kr/learn/courses/30/lessons/42576)|| 
+|스택/큐|기능개발|-|-|-|-|-|[프로그래머스 42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|| 
 
 </details>
  
 <details open>
-<summary>begginer</summary>
+<summary>알고리즘 설명</summary>
 
 | 분류 | 제목 | 설명 | 시간복잡도 | 기본의미 | 일반 | function | 연관 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 |정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|기준 값과 반복 비교해 앞으로 보냄|$O(N^2)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|[yet](https://www.acmicpc.net/problem/2750)|-|[link](https://youtu.be/V_RcpaHcULM)| 
 |정렬|[버블 정렬(Bubble Sort)](https://youtu.be/EZN0Irp2aPs)|옆 값과 비교해 앞으로 보냄 반복|$O(N^2)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=2018194806)|[yet](https://www.acmicpc.net/problem/2752)|-|[link](https://youtu.be/V_RcpaHcULM)| 
 |정렬|삽입 정렬(Insertion Sort)|비교 대상 값들 사이에 크기로 위치|$O(N^2)$||-|-|[link](https://youtu.be/16I9Z7bS1iM)| 
-|정렬|[퀵 정렬(Quick Sort)](https://youtu.be/7BDzle2n47c)|정한 값 기준 분할해 작은/큰 값으로 위치 반복|$O(N^2)$~$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=730421551)|?|-|[link](https://youtu.be/V_RcpaHcULM)| 
-|정렬|병합정렬(Merge Sort)|두 단위로 쪼개어 비교 후 반복 비교해 붙임|$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=1410825905)|-|-|| 
-|정렬|힙정렬(Binary Heaps)|완전이진트리 기반 구조|$O(N)$~$O(log_2N)$|[diagrams](https://app.diagrams.net/#G16oevZ5ILcp0nb1a_AIiogbryfRILW0q_)|-|-|[link](https://youtu.be/jfwjyJvbbBI)|  
+|정렬|[퀵 정렬(Quick Sort)](https://youtu.be/7BDzle2n47c)|정한 값 기준 분할해 작은/큰 값으로 위치 반복, 가장 많이 사용|$O(N^2)$~$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=730421551)|?|-|[link](https://youtu.be/V_RcpaHcULM)| 
+|정렬|병합정렬(Merge Sort)|두 단위로 쪼개어 비교 후 반복 비교해 붙임, 임시 메모리 공간 필요|$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=1410825905)|-|-|| 
+|정렬|힙정렬(Binary Heaps)|완전이진트리 기반 구조,우수하나 특별한 상황 사용|$O(log_2N)$|[diagrams](https://app.diagrams.net/#G16oevZ5ILcp0nb1a_AIiogbryfRILW0q_)|-|-|[link](https://youtu.be/jfwjyJvbbBI)|  
+|정렬|계수정렬(Counting Sort)|제한된 값 이하 때 사용, 반복 값 많을 때 유리|$O(N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=67632374)|-|-|[link](https://youtu.be/n4kbFRn2z9M)|  
 
 </details>
