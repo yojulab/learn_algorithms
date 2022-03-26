@@ -30,8 +30,7 @@
 |DFS|백트래킹|-|-|[py](./python/baekjoon_15649_function.py)|-|-|[백준 15649](https://www.acmicpc.net/problem/15649)|[link](https://velog.io/@yusuk6185/%EB%B0%B1%EC%A4%80-15649-N%EA%B3%BC-M-1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-with-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)| 
 |선택정렬|수 정렬하기|[link](./analysis/baekjoon_2750_analysis.txt)|[py](./python/baekjoon_2750_flat.py)|-|-|-|[백준 2750](https://www.acmicpc.net/problem/2750)|-|
 |병합정렬|수 정렬하기|||[py](./python/baekjoon_2751_function.py)|-|-|[백준 2751](https://www.acmicpc.net/problem/2751)|[link](https://eunhee-programming.tistory.com/105)|
-|?|중복 수 정렬하기|-|[py](./python/baekjoon_10989_flat.py)|-|-|-|[백준 10989](https://www.acmicpc.net/problem/10989)|| 
-|위상정렬|임계경로|||-|-|-|[백준 10989](https://www.acmicpc.net/problem/1948)|[youtube](https://youtu.be/WR5U_oWwf54)|
+|위상정렬|임계경로|||-|-|-|[백준 1948](https://www.acmicpc.net/problem/1948)|[youtube](https://youtu.be/WR5U_oWwf54)|
 |위상정렬||||-|-|-||[youtube](https://youtu.be/qzfeVeajuyc)|
 |타잔SCC정렬||||-|-|-||[youtube](https://youtu.be/H_Cg3-rv7RU)||
 |통계|통계 수치 구하기|[link](./analysis/baekjoon_2108_analysis.txt)||-|-|-|[백준 2108](https://www.acmicpc.net/problem/2108)|[link](https://velog.io/@jaenny/%EB%B0%B1%EC%A4%80-2108-%ED%86%B5%EA%B3%84%ED%95%99-Python%ED%8C%8C%EC%9D%B4%EC%8D%AC)| 
@@ -41,7 +40,7 @@
 |정수론 및 조합론|배수와 약수|-|-|-|-|-|[백준 5086](https://www.acmicpc.net/problem/5086)|| 
 </details>
 
-<details open>
+<details>
 <summary>ETC</summary>
 
 | 분류 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
@@ -62,22 +61,25 @@
 |트리에서의 동적 계획법|트리와 쿼리||-|-|-|-|[백준 15681](https://www.acmicpc.net/problem/15681)||
 |기하|다각형의 면적|그린정리|-|-|-|-|[백준 2166](https://www.acmicpc.net/problem/2166)||
 |동적 계획법 3|집합||-|-|-|-|[백준 11723](https://www.acmicpc.net/problem/11723)||
+|문자열|단어정렬||-|-|-|-|[백준 1181](https://www.acmicpc.net/problem/1181)||
+|문자열|시리얼 번호||-|-|-|-|[백준 1431](https://www.acmicpc.net/problem/1431)||
 
 </details>
 
 <details open>
 <summary>begginer</summary>
+
 | 분류 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
 |해시|완주하지 못한 선수|-|-|-|-|-|[프로그래머스 42576](https://programmers.co.kr/learn/courses/30/lessons/42576)|| 
 |스택/큐|기능개발|-|-|-|-|-|[프로그래머스 42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|| 
-
+|힙|더 맵게|-|-|-|-|-|[프로그래머스 42626](https://programmers.co.kr/learn/courses/30/lessons/42626)|| 
 </details>
  
 <details open>
 <summary>알고리즘 설명</summary>
 
-| 분류 | 제목 | 설명 | 시간복잡도 | 기본의미 | 일반 | function | 연관 |
+| 분류 | 제목 | 설명 | 시간복잡도 | 기본의미 | 풀기 | function | 연관 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 |정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|기준 값과 반복 비교해 앞으로 보냄|$O(N^2)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|[yet](https://www.acmicpc.net/problem/2750)|-|[link](https://youtu.be/V_RcpaHcULM)| 
 |정렬|[버블 정렬(Bubble Sort)](https://youtu.be/EZN0Irp2aPs)|옆 값과 비교해 앞으로 보냄 반복|$O(N^2)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=2018194806)|[yet](https://www.acmicpc.net/problem/2752)|-|[link](https://youtu.be/V_RcpaHcULM)| 
@@ -85,6 +87,6 @@
 |정렬|[퀵 정렬(Quick Sort)](https://youtu.be/7BDzle2n47c)|정한 값 기준 분할해 작은/큰 값으로 위치 반복, 가장 많이 사용|$O(N^2)$~$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=730421551)|?|-|[link](https://youtu.be/V_RcpaHcULM)| 
 |정렬|병합정렬(Merge Sort)|두 단위로 쪼개어 비교 후 반복 비교해 붙임, 임시 메모리 공간 필요|$O(N*log_2N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=1410825905)|-|-|| 
 |정렬|힙정렬(Binary Heaps)|완전이진트리 기반 구조,우수하나 특별한 상황 사용|$O(log_2N)$|[diagrams](https://app.diagrams.net/#G16oevZ5ILcp0nb1a_AIiogbryfRILW0q_)|-|-|[link](https://youtu.be/jfwjyJvbbBI)|  
-|정렬|계수정렬(Counting Sort)|제한된 값 이하 때 사용, 반복 값 많을 때 유리|$O(N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=67632374)|-|-|[link](https://youtu.be/n4kbFRn2z9M)|  
+|정렬|계수정렬(Counting Sort)|제한된 값 이하 때 사용, 반복 값 많을 때 유리|$O(N)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=67632374)|[yet]([백준 10989](https://www.acmicpc.net/problem/10989)|-|[link](https://youtu.be/n4kbFRn2z9M)|  
 
 </details>
