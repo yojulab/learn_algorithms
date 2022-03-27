@@ -63,22 +63,25 @@
 |동적 계획법 3|집합||-|-|-|-|[백준 11723](https://www.acmicpc.net/problem/11723)||
 |문자열|단어정렬||-|-|-|-|[백준 1181](https://www.acmicpc.net/problem/1181)||
 |문자열|시리얼 번호||-|-|-|-|[백준 1431](https://www.acmicpc.net/problem/1431)||
+|문자열 알고리즘 1|찾기||-|-|-|-|[백준 1786](https://www.acmicpc.net/problem/1786)||
 
 </details>
 
 <details open>
-<summary>begginer</summary>
+<summary>프로그래머스<
+/summary>
 
 | 분류 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
 |해시|완주하지 못한 선수|-|-|-|-|-|[프로그래머스 42576](https://programmers.co.kr/learn/courses/30/lessons/42576)|| 
 |스택/큐|기능개발|-|-|-|-|-|[프로그래머스 42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|| 
 |힙|더 맵게|-|-|-|-|-|[프로그래머스 42626](https://programmers.co.kr/learn/courses/30/lessons/42626)|| 
+|정렬|K번째수|-|-|-|-|-|[프로그래머스 42748](https://programmers.co.kr/learn/courses/30/lessons/42748)|| 
+
 </details>
  
 <details open>
 <summary>알고리즘 설명</summary>
-
 | 분류 | 제목 | 설명 | 시간복잡도 | 기본의미 | 풀기 | function | 연관 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 |정렬|[선택 정렬(Selection Sort)](https://youtu.be/8ZiSzteFRYc)|기준 값과 반복 비교해 앞으로 보냄|$O(N^2)$|[doc](https://docs.google.com/spreadsheets/d/18TZ_dfJ_MY6-XAnB3lV5-C2skDgVgrPZkPTDCbKVpF4/edit#gid=0)|[yet](https://www.acmicpc.net/problem/2750)|-|[link](https://youtu.be/V_RcpaHcULM)| 
