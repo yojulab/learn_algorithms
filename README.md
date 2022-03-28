@@ -64,12 +64,12 @@
 |문자열|단어정렬||-|-|-|-|[백준 1181](https://www.acmicpc.net/problem/1181)||
 |문자열|시리얼 번호||-|-|-|-|[백준 1431](https://www.acmicpc.net/problem/1431)||
 |문자열 알고리즘 1|찾기||-|-|-|-|[백준 1786](https://www.acmicpc.net/problem/1786)||
+|위상 정렬|줄 세우기||-|-|-|-|[백준 2252](https://www.acmicpc.net/problem/2252)|[link](https://hongcoding.tistory.com/95)|
 
 </details>
 
 <details open>
-<summary>프로그래머스<
-/summary>
+<summary>프로그래머스</summary>
 
 | 분류 | 제목 | 분석 | 일반 | function | class | 해보기| 문제출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
@@ -77,6 +77,7 @@
 |스택/큐|기능개발|-|-|-|-|-|[프로그래머스 42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|| 
 |힙|더 맵게|-|-|-|-|-|[프로그래머스 42626](https://programmers.co.kr/learn/courses/30/lessons/42626)|| 
 |정렬|K번째수|-|-|-|-|-|[프로그래머스 42748](https://programmers.co.kr/learn/courses/30/lessons/42748)|| 
+|정완전탐색|모의고사|-|-|-|-|-|[프로그래머스 42840](https://programmers.co.kr/learn/courses/30/lessons/42840)|| 
 
 </details>
  
