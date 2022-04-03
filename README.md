@@ -2,9 +2,12 @@
 코딩테스트 문제를 풀며 알고리즘  [refer link](https://youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
 [빅오(Big-O)표기법 완전정복](https://youtu.be/6Iq5iMCVsXA)
 
-+ 풀기 팁
-    + 보통 깊이 우선 탐색 : 함수안에서 주로 재귀
-    + 넓이 우선 탐색 : 큐나 데크에 저장 후 반복해 찾음.
+<details open>
+<summary>종류별 알고리즘 hint</summary>
+
++ 그리디 : 뒤에서 부터 해 보기 - [이코테 2021](https://youtu.be/2zjoKjt97vQ)
++ 보통 깊이 우선 탐색 : 함수안에서 주로 재귀
++ 넓이 우선 탐색 : 큐나 데크에 저장 후 반복해 찾음.
 
 <details>
 <summary>수학</summary>
@@ -66,6 +69,7 @@
 |문자열 알고리즘 1|찾기||-|-|-|-|[백준 1786](https://www.acmicpc.net/problem/1786)||
 |위상 정렬|줄 세우기||-|-|-|-|[백준 2252](https://www.acmicpc.net/problem/2252)|[link](https://hongcoding.tistory.com/95)|
 |최소 공통 조상|가장 가까운 공통 조상||-|-|-|-|[백준 3584](https://www.acmicpc.net/problem/3584)|[link](https://developmentdiary.tistory.com/467)|
+|강한 연결 요소|Strongly Connected Component||-|-|-|-|[백준 2150](https://www.acmicpc.net/problem/2150)|[link](https://ca.ramel.be/166?category=935131)|
 
 </details>
 
@@ -80,6 +84,7 @@
 |정렬|K번째수|-|-|-|-|-|[프로그래머스 42748](https://programmers.co.kr/learn/courses/30/lessons/42748)|| 
 |완전탐색|모의고사|-|-|-|-|-|[프로그래머스 42840](https://programmers.co.kr/learn/courses/30/lessons/42840)|| 
 |탐욕법(Greedy)|체육복|-|-|-|-|-|[프로그래머스 42840](https://programmers.co.kr/learn/courses/30/lessons/42840)|[link](https://rain-bow.tistory.com/30)| 
+|동적계획법(Dynamic Programming)|N으로 표현|-|-|-|-|-|[프로그래머스 42895](https://programmers.co.kr/learn/courses/30/lessons/42895)|| 
 
 </details>
  
