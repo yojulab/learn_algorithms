@@ -2,10 +2,13 @@
 코딩테스트 문제를 풀며 알고리즘  [refer link](https://youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
 [빅오(Big-O)표기법 완전정복](https://youtu.be/6Iq5iMCVsXA)
 
-- 종류별 알고리즘 hint
-    + 그리디 : 뒤에서 부터 해 보기 - [이코테 2021](https://youtu.be/2zjoKjt97vQ)
-    + 보통 깊이 우선 탐색 : 함수안에서 주로 재귀
-    + 넓이 우선 탐색 : 큐나 데크에 저장 후 반복해 찾음.
+### 주요 참조 
++ [Trees & Graphs](https://youtube.com/playlist?list=PLjSkJdbr_gFY8VgactUs6_Jc9Ke8cPzZP)
+
+### 종류별 알고리즘 hint
++ 그리디 : 뒤에서 부터 해 보기 - [이코테 2021](https://youtu.be/2zjoKjt97vQ)
++ 보통 깊이 우선 탐색 : 함수안에서 주로 재귀
++ 넓이 우선 탐색 : 큐나 데크에 저장 후 반복해 찾음.
 
 <details open>
 <summary>종류별 알고리즘</summary>
