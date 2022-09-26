@@ -1,5 +1,6 @@
 ### 찐 사수와 같이 하는 알고리즘([사용법](./refer/README.md))
-코딩테스트 문제를 풀며 알고리즘  [refer link](https://youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
+- [visual with code](https://swexpertacademy.com/main/visualcode/main.do)
+- 코딩테스트 문제를 풀며 알고리즘  [refer link](https://youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
 [빅오(Big-O)표기법 완전정복](https://youtu.be/6Iq5iMCVsXA)
 
 ### 주요 참조 
