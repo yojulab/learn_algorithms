@@ -26,5 +26,6 @@
 |Graph|깊이 우선 탐색(Deepth First Search)|||[drawio](https://app.diagrams.net/#G16oevZ5ILcp0nb1a_AIiogbryfRILW0q_)|-|-|[link](https://youtu.be/_hxFgg7TLZQ)| 
 |Graph|너비 우선 탐색(Breath First Search)|||[drawio](https://app.diagrams.net/#G16oevZ5ILcp0nb1a_AIiogbryfRILW0q_)||-|[link](https://youtu.be/2zjoKjt97vQ)| 
 |그리디|루트로 시작, 레벨 순으로 왼쪽, 오른쪽 끝 순으로 반복||큐사용||-|-|[link](https://youtu.be/2zjoKjt97vQ)| 
+|MST|Kruskal Minimum Spanning Tree||greedy method||-|[py](./python/MinimumSpanningTree_Kruskal.py)|| 
  
 </details>
